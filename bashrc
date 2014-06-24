@@ -120,11 +120,6 @@ cs ()
     ls -F --color=auto;
 }
 
-# Nethack
-alias nethack="telnet nethack.alt.org"
-
-# start tmux
-tmux -2 a
 
 # grep
 search () { find . | xargs grep --color=auto "$@"; }

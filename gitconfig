@@ -1,8 +1,8 @@
 [user]
-    name = Brian Zhang
-    email = tangerinewhite32@gmail.com
+    name = Jesse Averbukh
+    email = jesse.averbukh@socialgrowthtechnologies.com
 [github]
-    user = tangerinewhite32
+    user = javerbukh
 [core]
     editor = vim
     excludesfile = ~/.gitignore_global
